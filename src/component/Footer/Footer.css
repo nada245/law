@@ -1,0 +1,25 @@
+.mainFooter{
+    background-color: #0e152c;
+    width: 100%;
+    height: 100%;
+}
+/* .footer1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 25px;
+    color: aliceblue;
+} */
+.footer2{
+    padding: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.part1{
+    color: aliceblue;
+}
+.part3{
+    color: aliceblue;
+    text-align: end;
+}

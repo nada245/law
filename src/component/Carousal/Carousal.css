@@ -1,0 +1,7 @@
+/* #carouselExampleFade{
+    width: 100%;
+    height: 50%;
+} */
+.carousel-inner{
+    height: 30rem;
+}

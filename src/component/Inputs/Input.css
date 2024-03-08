@@ -1,0 +1,16 @@
+.mainInputs {
+    background-color: #0e152c;
+    color: aliceblue;
+}
+
+.inputs {
+    position: absolute;
+    bottom: -120%;
+    left: 60%;
+
+
+}
+
+.logo {
+    padding: 50px;
+}

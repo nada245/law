@@ -1,0 +1,38 @@
+@font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("../fonts/AlmaraiRegular.ttf");
+    font-family: "Almarai";
+    font-weight: 400;
+}
+
+@font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("../fonts/AlmaraiBold.ttf");
+    font-family: "Almarai";
+    font-weight: 700;
+}
+
+@font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("../fonts/PoppinsExtraBold.ttf");
+    font-family: "Poppins";
+    font-weight: 800;
+}
+
+@font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("../fonts/PoppinsRegular.ttf");
+    font-family: "Poppins";
+    font-weight: 400;
+}
+@font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("../fonts/ArbFONTS-Janna-LT-Regular.ttf");
+    font-family: "Janna";
+    font-weight: 400;
+}

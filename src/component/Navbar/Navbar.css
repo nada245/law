@@ -1,0 +1,27 @@
+*{
+    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+}
+.parentNav {
+    background-color: #0e152c;
+    display: flex;
+    justify-content: space-around;
+    color: aliceblue;
+    margin: 0;
+    padding:25px;
+}
+
+.navIcons {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+}
+
+.line {
+    width: 100%;
+    height: 25px;
+    margin: 10px 0;
+    background-color: #000;
+    color: aliceblue;
+    border: white solid 1px;
+}

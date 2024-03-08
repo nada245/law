@@ -1,0 +1,7 @@
+.mainSlider{
+background: #0e152c;
+}
+.carousel-item .active{
+    display: flex;
+    justify-content: space-between;
+}
